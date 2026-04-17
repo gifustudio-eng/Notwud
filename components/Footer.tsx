@@ -2,8 +2,8 @@ import Image from 'next/image'
 
 const partners = [
   { src: '/images/logo-jangjo-element-black.png', alt: 'Jangjo Element', width: 140 },
-  { src: '/images/logo-flexitech.webp', alt: 'Flexitech Evolusindo', width: 110 },
-  { src: '/images/logo-jangjo.png', alt: 'Jangjo', width: 90 },
+  { src: '/images/logo-flexitech.webp', alt: 'Flexitech Evolusindo', width: 180 },
+  { src: '/images/logo-jangjo.png', alt: 'Jangjo', width: 180 },
 ]
 
 export default function Footer() {
