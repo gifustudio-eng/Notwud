@@ -10,7 +10,7 @@ export default function Footer() {
   return (
     <footer className="border-t border-border-subtle bg-bg-primary">
       {/* Partner logos */}
-      <div className="max-w-7xl mx-auto px-8 lg:px-12 py-18">
+      <div className="max-w-7xl mx-auto px-6 lg:px-12 py-18">
         <p className="text-text-muted text-xs tracking-[0.15em] uppercase mb-10">
           A product of
         </p>
